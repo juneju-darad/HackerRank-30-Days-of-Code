@@ -5,5 +5,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="pythonProjectDraft" />
+    <orderEntry type="module" module-name="appData" />
+    <orderEntry type="module" module-name="appData" />
+    <orderEntry type="module" module-name="appData" />
   </component>
 </module>

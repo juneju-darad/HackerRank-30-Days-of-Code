@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/HackerRank-30-Days-of-Code.iml" filepath="$PROJECT_DIR$/.idea/HackerRank-30-Days-of-Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appData/.idea/appData.iml" filepath="$PROJECT_DIR$/../appData/.idea/appData.iml" />
       <module fileurl="file://$USER_HOME$/PycharmProjects/pythonProjectDraft/.idea/pythonProjectDraft.iml" filepath="$USER_HOME$/PycharmProjects/pythonProjectDraft/.idea/pythonProjectDraft.iml" />
     </modules>
   </component>
